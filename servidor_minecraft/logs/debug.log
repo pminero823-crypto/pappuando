@@ -1,0 +1,458 @@
+[22:42:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:42:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:42:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:42:26] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[22:42:26] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[22:42:26] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_462, running on Linux:amd64:6.8.0-1030-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[22:42:26] [main/DEBUG] [FML]: Java classpath at launch is:
+[22:42:26] [main/DEBUG] [FML]:     /workspaces/pappuando/servidor_minecraft/forge-1.12.2-14.23.5.2859.jar
+[22:42:26] [main/DEBUG] [FML]: Java library path at launch is:
+[22:42:26] [main/DEBUG] [FML]:     /tmp/_MEIlajtp7
+[22:42:26] [main/DEBUG] [FML]:     /usr/java/packages/lib/amd64
+[22:42:26] [main/DEBUG] [FML]:     /usr/lib/x86_64-linux-gnu/jni
+[22:42:26] [main/DEBUG] [FML]:     /lib/x86_64-linux-gnu
+[22:42:26] [main/DEBUG] [FML]:     /usr/lib/x86_64-linux-gnu
+[22:42:26] [main/DEBUG] [FML]:     /usr/lib/jni
+[22:42:26] [main/DEBUG] [FML]:     /lib
+[22:42:26] [main/DEBUG] [FML]:     /usr/lib
+[22:42:26] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: /workspaces/pappuando/servidor_minecraft/libraries
+[22:42:26] [main/DEBUG] [FML]: Cleaning up mods folder: ./mods
+[22:42:26] [main/DEBUG] [FML]: Examining file: DoomlikeDungeons-1.14.11-MC1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: craftablechainmail-1.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: CollisionDamage-1.2.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: tschipplib-1.12.2-1.1.7.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: roughTweaks0.2.4-1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: BedBreakBegone-1.0.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: WolfArmorAndStorage-3.8.1+1.12.2.alpha.1-SNAPSHOT-signed.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: RebornCore-1.12.2-3.19.5-universal.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: SereneSeasons-1.12.2-1.2.18-universal.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: RealisticTorches-1.12.2-2.1.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: BetterCombat-1.12.2-1.5.6.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: _MixinBootstrap-1.1.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: AutoRegLib-1.3-32.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: ForgeEndertech-1.12.2-4.5.6.0-build.0619.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: switchbow-1.6.8.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: tumbleweed-1.12-0.4.7.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: particleculling-1.12.2-v1.3.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: InfernalMobs-1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: MTLib-3.0.7.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: FamiliarFauna-1.12.2-1.0.11.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: DynamicTreesTraverse-1.12.2-2.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: GooglyEyes-1.12.2-7.1.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: SilentLib-1.12.2-3.0.14+168.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: ShieldBreak-1.0.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: SpartanWeaponry-1.12.2-1.4.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: ItemPhysic_Full_1.4.37_mc1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: better_survival-1.4.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Level Up! 2-1.1.23-1.12.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: MoBends_1.12.2-1.2.1-19.12.21.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: WearableBackpacks-1.12.2-3.1.4.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Advanced-Fishing-1.12.2-1.3.3.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: spartandefiled-1.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: tnt_utilities-mc1.12-1.2.3.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: callablehorses-1.12.2-1.1.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: MmmMmmMmmMmm-1.12-1.14.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: MultiMine-1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: BetterQuesting-3.5.329.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: ResourceLoader-MC1.12.1-1.5.3.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: BetterMineshaftsForge-1.12.2-2.2.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: FishingMadeBetter-1.12.2-2.2.4.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: SoManyEnchantments-0.5.5.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: RLTweaker-1.12.2-0.5.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: defiledlands-1.12.2-1.4.3.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: BQTweaker-1.3.3.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: sit-1.12.2-v1.3.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: DynamicSurroundings-1.12.2-3.6.2.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: playerbosses-1.12.2-1.1.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: iChunUtil-1.12.2-7.2.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: CompatSkills-1.12.2-1.17.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: iceandfire-1.7.1-1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: PotionFingers-r1.0-8.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: foamfix-0.10.14-1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: carryon-1.12.2-1.12.6.20.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: BQ_Multiblock_Structure_Integration-1.0.7.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: armorunder-mc1.12.2-1.0.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: ToolBelt-1.12.2-1.9.14.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Aquaculture-1.12.2-1.6.8.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: LoadingScreens-1.12.2-0.3.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar
+[22:42:26] [main/DEBUG] [FML]: Making maven link for org.orecruncher:DynamicSurroundingsHuds:1.12.2-3.6.0.0 in memory to /workspaces/pappuando/servidor_minecraft/./mods/DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar.
+[22:42:26] [main/DEBUG] [FML]: Examining file: antiqueatlas-1.12.2-4.6.3.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: SetBonus-1.12.2.020.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: DynamicTrees-1.12.2-0.9.27.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: IvToolkit-1.3.3-1.12.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: LootTweaker-0.3.1+MC1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: base-1.12.2-3.14.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: BetterFoliage-MC1.12-2.3.3.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: BetterTabs-1.0.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: ElenaiDodge-1.12.2-2.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Locks-1.12.2-3.0.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: EntityCulling-1.12.2-4.2.5.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Placebo-1.12.2-1.6.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: SimpleDifficulty-1.12.2-0.3.9.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: GlobalGameRules-1.12.2-2.2.7.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: PotionCore-1.9_for_1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Traverse-1.12.2-1.6.0-69.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: FancyBlockParticles-1.12.x-2.4.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: classyhats-1.6.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: TickProfiler-1.12-0.0.10.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: BlockOverlayFix-1.12.2-1.0.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: grapplemod-1.12.2-v12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: XPFromHarvest-1.12.2-1.2.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Inspirations-1.12.2-0.2.9.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: corpsecomplex-1.12.2-1.0.12.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: StandardExpansion-3.4.173.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: mcw-bridges-1.0.6b-mc1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: QualityTools-1.0.7_for_1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Born In A Barn V1.8-1.12-1.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: FoodExpansion1.3.3-1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: FriendlyEndermite_v1.0.1_mc1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Neat 1.4-17.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Trinkets and Baubles-0.31.4.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: SpawnerControl-1.6.3b.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: SnowRealMagic-1.12.2-0.6.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: MainMenuScale-1.3.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: AIReducer-1.12.2-0.3.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: forgottenitems-1.12.2-1.3.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: VariedCommodities_1.12.2-(13Jan22).jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: RoguelikeDungeonsFnarEdition-1.12.2-2.4.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: EnchantmentDescriptions-1.12.2-1.1.20.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: FantasticLib-1.12.2.047.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: RecurrentComplex-1.4.8.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: BNBGamingLib-1.12.2-2.17.6.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: carrotslib-mc1.12.2-1.0.0b1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: ScalingHealth-1.12.2-1.3.42+147.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: disenchanter[1.12]1.8.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: notreepunching-2.0.21.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: CreativeCore_v1.10.70_mc1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: firstaid-1.6.20.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: lostcities-1.12-2.0.22.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: bettercaves-1.12.2-2.0.4.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: YungsLaw-1.12.2-1.0.4.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: astikorcarts-1.12.2-0.1.2.8.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: betternether-0.1.8.6.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: itlt-1.12.x-1.0.4.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: phosphor-1.12.2-0.2.6+build50-universal.jar
+[22:42:26] [main/DEBUG] [FML]: Making maven link for me.jellysquid.mods:phosphor:1.12.2-0.2.6+build50 in memory to /workspaces/pappuando/servidor_minecraft/./mods/phosphor-1.12.2-0.2.6+build50-universal.jar.
+[22:42:26] [main/DEBUG] [FML]: Examining file: rustic-1.1.7.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: ContentTweaker-1.12.2-4.10.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: CoralReef-2.5-1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: anvilpatch-1.1.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Quark-r1.6-179.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: spartanfire-0.05.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: # LibLoader.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: SRParasites-1.12.2v1.9.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: modtweaker-4.0.20.5.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: [___MixinCompat-0.8___].jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: CraftableHorseArmour-1.3.0-1.12.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Toast Control-1.12.2-1.8.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: dynamictreesdefiledlands-1.12.2-1.0.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: CustomMainMenu-MC1.12.2-2.0.9.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Charm-1.12.2-1.4.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: llibrary-1.7.20-1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Found existing ContainedDep llibrary-core-1.0.11-1.12.2.jar(net.ilexiconn:llibrary-core:1.0.11-1.12.2) from /workspaces/pappuando/servidor_minecraft/mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar extracted to ./mods/llibrary-1.7.20-1.12.2.jar, skipping extraction
+[22:42:26] [main/DEBUG] [FML]: Examining file: llibrary-core-1.0.11-1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Making maven link for net.ilexiconn:llibrary:1.7.20-1.12.2 in memory to /workspaces/pappuando/servidor_minecraft/./mods/llibrary-1.7.20-1.12.2.jar.
+[22:42:26] [main/DEBUG] [FML]: Examining file: Reskillable-1.12.2-1.13.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Ruins-1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Bloodmoon-MC1.12.2-1.5.3.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Mantle-1.12-1.3.3.55.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: BattleTowers-1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Waystones_1.12.2-4.1.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: RealBench-1.12.2-1.3.3.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: jei_1.12.2-4.16.1.302.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: fxcontrol-1.12-0.1.15.jar
+[22:42:26] [main/DEBUG] [FML]: Found existing ContainedDep META-INF/libraries/mcjtytools-1.12-0.0.21.jar(com.github.mcjty:mcjtytools:0.0.21) from /workspaces/pappuando/servidor_minecraft/mods/memory_repo/com/github/mcjty/mcjtytools/0.0.21/mcjtytools-0.0.21.jar extracted to ./mods/fxcontrol-1.12-0.1.15.jar, skipping extraction
+[22:42:26] [main/DEBUG] [FML]: Examining file: mcjtytools-0.0.21.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: ChunkAnimator-MC1.12-1.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: trumpetskeleton-1.12-1.0.2.1.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: ISeeDragons-1.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: SpartanShields-1.12.2-1.5.5.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Bountiful-1.12.2-2.2.3.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: comforts-1.12.2-1.4.1.3.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Forgelin-1.8.4.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: librarianlib-1.12.2-4.22.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Baubles-1.12-1.5.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: EnhancedVisuals_v1.4.4_mc1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Controlling-3.0.8.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: lycanitesmobs-1.12.2-2.0.8.5.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: SpartanHUDBaubles-1.12.2-1.0.0.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: alcatrazcore-1.0.4.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: SoundFilters-0.12.1_for_1.12.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: Bountiful+Baubles-1.12.2-0.1.8.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: OreLib-1.12.2-3.6.0.1.jar
+[22:42:26] [main/DEBUG] [FML]: Making maven link for org.orecruncher:OreLib:1.12.2-3.6.0.1 in memory to /workspaces/pappuando/servidor_minecraft/./mods/OreLib-1.12.2-3.6.0.1.jar.
+[22:42:26] [main/DEBUG] [FML]: Examining file: pigstep-1.12.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: MouseTweaks-2.10.1-mc1.12.2.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: xptome-1.12.2-v1.1.6.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: CraftTweaker2-1.12-4.1.20.674.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: InventoryTweaks-1.64+dev.151.jar
+[22:42:26] [main/DEBUG] [FML]: Examining file: AdHooks-1.12.2-3.3.1.0-build.0626.jar
+[22:42:26] [main/DEBUG] [FML]: File already proccessed /workspaces/pappuando/servidor_minecraft/./mods/DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar, Skipping
+[22:42:26] [main/DEBUG] [FML]: File already proccessed /workspaces/pappuando/servidor_minecraft/./mods/phosphor-1.12.2-0.2.6+build50-universal.jar, Skipping
+[22:42:26] [main/DEBUG] [FML]: File already proccessed /workspaces/pappuando/servidor_minecraft/./mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar, Skipping
+[22:42:26] [main/DEBUG] [FML]: File already proccessed /workspaces/pappuando/servidor_minecraft/./mods/llibrary-1.7.20-1.12.2.jar, Skipping
+[22:42:26] [main/DEBUG] [FML]: File already proccessed /workspaces/pappuando/servidor_minecraft/./mods/memory_repo/com/github/mcjty/mcjtytools/0.0.21/mcjtytools-0.0.21.jar, Skipping
+[22:42:26] [main/DEBUG] [FML]: File already proccessed /workspaces/pappuando/servidor_minecraft/./mods/OreLib-1.12.2-3.6.0.1.jar, Skipping
+[22:42:26] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[22:42:26] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[22:42:26] [main/DEBUG] [FML]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[22:42:26] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:42:26] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[22:42:26] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[22:42:26] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[22:42:26] [main/DEBUG] [FML]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[22:42:26] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:42:26] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[22:42:26] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[22:42:26] [main/DEBUG] [FML]: Discovering coremods
+[22:42:26] [main/INFO] [FML]: Searching /workspaces/pappuando/servidor_minecraft/./mods for mods
+[22:42:26] [main/DEBUG] [FML]:   Adding DoomlikeDungeons-1.14.11-MC1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding craftablechainmail-1.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding CollisionDamage-1.2.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding tschipplib-1.12.2-1.1.7.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding roughTweaks0.2.4-1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding BedBreakBegone-1.0.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding WolfArmorAndStorage-3.8.1+1.12.2.alpha.1-SNAPSHOT-signed.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding RebornCore-1.12.2-3.19.5-universal.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding SereneSeasons-1.12.2-1.2.18-universal.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding RealisticTorches-1.12.2-2.1.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding BetterCombat-1.12.2-1.5.6.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding _MixinBootstrap-1.1.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding AutoRegLib-1.3-32.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding ForgeEndertech-1.12.2-4.5.6.0-build.0619.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding switchbow-1.6.8.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding tumbleweed-1.12-0.4.7.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding particleculling-1.12.2-v1.3.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding InfernalMobs-1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding MTLib-3.0.7.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding FamiliarFauna-1.12.2-1.0.11.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding DynamicTreesTraverse-1.12.2-2.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding GooglyEyes-1.12.2-7.1.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding SilentLib-1.12.2-3.0.14+168.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding ShieldBreak-1.0.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding SpartanWeaponry-1.12.2-1.4.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding ItemPhysic_Full_1.4.37_mc1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding better_survival-1.4.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Level Up! 2-1.1.23-1.12.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding MoBends_1.12.2-1.2.1-19.12.21.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding WearableBackpacks-1.12.2-3.1.4.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Advanced-Fishing-1.12.2-1.3.3.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding spartandefiled-1.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding tnt_utilities-mc1.12-1.2.3.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding callablehorses-1.12.2-1.1.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding MmmMmmMmmMmm-1.12-1.14.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding MultiMine-1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding BetterQuesting-3.5.329.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding ResourceLoader-MC1.12.1-1.5.3.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding BetterMineshaftsForge-1.12.2-2.2.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding FishingMadeBetter-1.12.2-2.2.4.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding SoManyEnchantments-0.5.5.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding RLTweaker-1.12.2-0.5.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding defiledlands-1.12.2-1.4.3.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding BQTweaker-1.3.3.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding sit-1.12.2-v1.3.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding DynamicSurroundings-1.12.2-3.6.2.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding playerbosses-1.12.2-1.1.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding iChunUtil-1.12.2-7.2.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding CompatSkills-1.12.2-1.17.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding iceandfire-1.7.1-1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding PotionFingers-r1.0-8.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding foamfix-0.10.14-1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding carryon-1.12.2-1.12.6.20.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding BQ_Multiblock_Structure_Integration-1.0.7.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding armorunder-mc1.12.2-1.0.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding ToolBelt-1.12.2-1.9.14.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Aquaculture-1.12.2-1.6.8.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding LoadingScreens-1.12.2-0.3.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding antiqueatlas-1.12.2-4.6.3.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding SetBonus-1.12.2.020.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding DynamicTrees-1.12.2-0.9.27.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding IvToolkit-1.3.3-1.12.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding LootTweaker-0.3.1+MC1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding base-1.12.2-3.14.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding BetterFoliage-MC1.12-2.3.3.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding BetterTabs-1.0.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding ElenaiDodge-1.12.2-2.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Locks-1.12.2-3.0.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding EntityCulling-1.12.2-4.2.5.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Placebo-1.12.2-1.6.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding SimpleDifficulty-1.12.2-0.3.9.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding GlobalGameRules-1.12.2-2.2.7.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding PotionCore-1.9_for_1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Traverse-1.12.2-1.6.0-69.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding FancyBlockParticles-1.12.x-2.4.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding classyhats-1.6.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding TickProfiler-1.12-0.0.10.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding BlockOverlayFix-1.12.2-1.0.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding grapplemod-1.12.2-v12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding XPFromHarvest-1.12.2-1.2.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Inspirations-1.12.2-0.2.9.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding corpsecomplex-1.12.2-1.0.12.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding StandardExpansion-3.4.173.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding mcw-bridges-1.0.6b-mc1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding QualityTools-1.0.7_for_1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Born In A Barn V1.8-1.12-1.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding FoodExpansion1.3.3-1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding FriendlyEndermite_v1.0.1_mc1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Neat 1.4-17.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Trinkets and Baubles-0.31.4.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding SpawnerControl-1.6.3b.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding SnowRealMagic-1.12.2-0.6.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding MainMenuScale-1.3.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding AIReducer-1.12.2-0.3.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding forgottenitems-1.12.2-1.3.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding VariedCommodities_1.12.2-(13Jan22).jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding RoguelikeDungeonsFnarEdition-1.12.2-2.4.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding EnchantmentDescriptions-1.12.2-1.1.20.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding FantasticLib-1.12.2.047.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding RecurrentComplex-1.4.8.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding BNBGamingLib-1.12.2-2.17.6.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding carrotslib-mc1.12.2-1.0.0b1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding ScalingHealth-1.12.2-1.3.42+147.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding disenchanter[1.12]1.8.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding notreepunching-2.0.21.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding CreativeCore_v1.10.70_mc1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding firstaid-1.6.20.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding lostcities-1.12-2.0.22.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding bettercaves-1.12.2-2.0.4.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding YungsLaw-1.12.2-1.0.4.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding astikorcarts-1.12.2-0.1.2.8.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding betternether-0.1.8.6.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding itlt-1.12.x-1.0.4.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding phosphor-1.12.2-0.2.6+build50-universal.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding rustic-1.1.7.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding ContentTweaker-1.12.2-4.10.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding CoralReef-2.5-1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding anvilpatch-1.1.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Quark-r1.6-179.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding spartanfire-0.05.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding # LibLoader.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding SRParasites-1.12.2v1.9.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding modtweaker-4.0.20.5.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding [___MixinCompat-0.8___].jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding CraftableHorseArmour-1.3.0-1.12.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Toast Control-1.12.2-1.8.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding dynamictreesdefiledlands-1.12.2-1.0.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding CustomMainMenu-MC1.12.2-2.0.9.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Charm-1.12.2-1.4.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding llibrary-1.7.20-1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Reskillable-1.12.2-1.13.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Ruins-1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Bloodmoon-MC1.12.2-1.5.3.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Mantle-1.12-1.3.3.55.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding BattleTowers-1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Waystones_1.12.2-4.1.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding RealBench-1.12.2-1.3.3.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding jei_1.12.2-4.16.1.302.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding fxcontrol-1.12-0.1.15.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding ChunkAnimator-MC1.12-1.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding trumpetskeleton-1.12-1.0.2.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding ISeeDragons-1.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding SpartanShields-1.12.2-1.5.5.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Bountiful-1.12.2-2.2.3.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding comforts-1.12.2-1.4.1.3.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Forgelin-1.8.4.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding librarianlib-1.12.2-4.22.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Baubles-1.12-1.5.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding EnhancedVisuals_v1.4.4_mc1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Controlling-3.0.8.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding lycanitesmobs-1.12.2-2.0.8.5.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding SpartanHUDBaubles-1.12.2-1.0.0.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding alcatrazcore-1.0.4.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding SoundFilters-0.12.1_for_1.12.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding Bountiful+Baubles-1.12.2-0.1.8.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding OreLib-1.12.2-3.6.0.1.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding pigstep-1.12.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding MouseTweaks-2.10.1-mc1.12.2.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding xptome-1.12.2-v1.1.6.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding CraftTweaker2-1.12-4.1.20.674.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding InventoryTweaks-1.64+dev.151.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]:   Adding AdHooks-1.12.2-3.3.1.0-build.0626.jar to the mod list
+[22:42:26] [main/DEBUG] [FML]: Examining for coremod candidacy # LibLoader.jar
+[22:42:26] [main/TRACE] [FML]: Adding # LibLoader.jar to the list of known coremods, it will not be examined again
+[22:42:26] [main/DEBUG] [FML]: Instantiating coremod class LibLoader
+[22:42:26] [main/TRACE] [FML]: coremod named LibLoader is loading
+[22:42:26] [main/WARN] [FML]: The coremod org.minimallycorrect.libloader.LibLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:42:26] [main/WARN] [FML]: The coremod LibLoader (org.minimallycorrect.libloader.LibLoader) is not signed!
+[22:42:26] [ForkJoinPool.commonPool-worker-2/INFO] [LibLoader]: Downloading library me.nallar.whocalled.WhoCalled-1.1 from https://jcenter.bintray.com/me/nallar/whocalled/WhoCalled/1.1/WhoCalled-1.1.jar. Expected hash: 6d4275e1b41ba7ce297ccb00db0afda0e5add3e07aea80220550d11a90d9a1fe01340d3f44c7d9fe67f463c96a0a6df233a28df882515bb05834868cdcdbc04f
+[22:42:26] [ForkJoinPool.commonPool-worker-1/INFO] [LibLoader]: Downloading library org.minimallycorrect.javatransformer.JavaTransformer-1.8.3 from https://jcenter.bintray.com/org/minimallycorrect/javatransformer/JavaTransformer/1.8.3/JavaTransformer-1.8.3.jar. Expected hash: b7333555b0ed9c178895b8e6a53ab0f1bb9c602fbe0d355563fc5e17a39e0fb4fa439f68b8848852735b8f06cdee378f06ba6049523c9270d9683dd329a209f0
+[22:42:27] [main/ERROR] [LaunchWrapper]: Unable to launch
+java.lang.RuntimeException: An error occurred trying to configure the Minecraft home at /workspaces/pappuando/servidor_minecraft/. for Forge Mod Loader
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:111) ~[forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupServer(FMLLaunchHandler.java:87) ~[forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.configureForServerLaunch(FMLLaunchHandler.java:47) ~[forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.common.launcher.FMLServerTweaker.injectIntoClassLoader(FMLServerTweaker.java:62) ~[forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_462]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_462]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_462]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_462]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2859.jar:?]
+Caused by: java.io.FileNotFoundException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_462]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_462]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_462]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_462]
+	at java.util.concurrent.ForkJoinTask.getThrowableException(ForkJoinTask.java:598) ~[?:1.8.0_462]
+	at java.util.concurrent.ForkJoinTask.reportException(ForkJoinTask.java:677) ~[?:1.8.0_462]
+	at java.util.concurrent.ForkJoinTask.invoke(ForkJoinTask.java:735) ~[?:1.8.0_462]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateParallel(ForEachOps.java:159) ~[?:1.8.0_462]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateParallel(ForEachOps.java:173) ~[?:1.8.0_462]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233) ~[?:1.8.0_462]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:485) ~[?:1.8.0_462]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:650) ~[?:1.8.0_462]
+	at org.minimallycorrect.libloader.LibLoaderChained.init(LibLoaderChained.java:68) ~[%23%20LibLoader.jar:0.1-SNAPSHOT+Jenkins-b39.git-83f5a19f50db8bf0700b1e9abc953bae1c3ae517]
+	at org.minimallycorrect.libloader.LibLoader.launch(LibLoader.java:66) ~[%23%20LibLoader.jar:0.1-SNAPSHOT+Jenkins-b39.git-83f5a19f50db8bf0700b1e9abc953bae1c3ae517]
+	at org.minimallycorrect.libloader.LibLoader.init(LibLoader.java:55) ~[%23%20LibLoader.jar:0.1-SNAPSHOT+Jenkins-b39.git-83f5a19f50db8bf0700b1e9abc953bae1c3ae517]
+	at org.minimallycorrect.libloader.LibLoader.<init>(LibLoader.java:25) ~[%23%20LibLoader.jar:0.1-SNAPSHOT+Jenkins-b39.git-83f5a19f50db8bf0700b1e9abc953bae1c3ae517]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_462]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_462]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_462]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_462]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_462]
+	at net.minecraftforge.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:594) ~[forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:451) ~[forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:265) ~[forge-1.12.2-14.23.5.2859.jar:?]
+	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:107) ~[forge-1.12.2-14.23.5.2859.jar:?]
+	... 11 more
+Caused by: java.io.FileNotFoundException: https://repo1.maven.org/maven2/org/minimallycorrect/javatransformer/JavaTransformer/1.8.3/JavaTransformer-1.8.3.jar
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1915) ~[?:1.8.0_462]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:94) ~[?:1.8.0_462]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1509) ~[?:1.8.0_462]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507) ~[?:1.8.0_462]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_462]
+	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784) ~[?:1.8.0_462]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1506) ~[?:1.8.0_462]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268) ~[?:1.8.0_462]
+	at org.minimallycorrect.libloader.LibLoaderChained$Library.openStream(LibLoaderChained.java:208) ~[%23%20LibLoader.jar:0.1-SNAPSHOT+Jenkins-b39.git-83f5a19f50db8bf0700b1e9abc953bae1c3ae517]
+	at org.minimallycorrect.libloader.LibLoaderChained$Library.save(LibLoaderChained.java:258) ~[%23%20LibLoader.jar:0.1-SNAPSHOT+Jenkins-b39.git-83f5a19f50db8bf0700b1e9abc953bae1c3ae517]
+	at org.minimallycorrect.libloader.LibLoaderChained.lambda$init$1(LibLoaderChained.java:68) ~[%23%20LibLoader.jar:0.1-SNAPSHOT+Jenkins-b39.git-83f5a19f50db8bf0700b1e9abc953bae1c3ae517]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:1.8.0_462]
+	at java.util.concurrent.ConcurrentHashMap$ValueSpliterator.forEachRemaining(ConcurrentHashMap.java:3564) ~[?:1.8.0_462]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) ~[?:1.8.0_462]
+	at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:290) ~[?:1.8.0_462]
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:731) ~[?:1.8.0_462]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_462]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.execLocalTasks(ForkJoinPool.java:1040) ~[?:1.8.0_462]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1058) ~[?:1.8.0_462]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_462]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) ~[?:1.8.0_462]
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: java.lang.reflect.InvocationTargetException
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70)
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34)
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: Caused by: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:49)
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at java.lang.SecurityManager.checkExit(SecurityManager.java:761)
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at java.lang.Runtime.exit(Runtime.java:101)
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at java.lang.System.exit(System.java:987)
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:42:27] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	... 6 more
