@@ -1,0 +1,4 @@
+StonePlantMound2,-1161,-1149,-2621,-2608
+SmallWoodenCottage2,-1323,-1315,-2588,-2580
+RLCraft_BasicCaveSpider,-1035,-1035,-2643,-2643
+RLCraft_UndergroundRuin1,-1038,-1029,-2646,-2637

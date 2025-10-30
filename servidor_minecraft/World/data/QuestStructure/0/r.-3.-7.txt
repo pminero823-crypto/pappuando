@@ -1,0 +1,5 @@
+RLCraft_SmallUndergroundSkeleton,-1973,-1965,-3933,-3925
+StonePlantBoulder,-1953,-1943,-3883,-3873
+StonePlantMound1,-1990,-1984,-3824,-3818
+StonePlantMound1,-1938,-1932,-3846,-3840
+DesertWatchtower,-1982,-1972,-3635,-3625

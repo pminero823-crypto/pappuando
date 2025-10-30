@@ -1,0 +1,10 @@
+RLCraft_DecentCaveSpider,174,174,-3395,-3395
+RLCraft_UndergroundRuin3,171,179,-3397,-3389
+StonePlantMound3,289,298,-3163,-3152
+StonePlantMound,165,170,-3175,-3170
+StoneBoulder,183,192,-3152,-3143
+StoneBoulder,91,100,-3226,-3217
+StoneLeafMound,136,145,-3117,-3110
+SmallFortRuinsJapanese,50,96,-3394,-3348
+StonePlantMound3,70,79,-3124,-3113
+StonePlantBoulder,61,71,-3157,-3147

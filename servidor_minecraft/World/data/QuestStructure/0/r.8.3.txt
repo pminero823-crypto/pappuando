@@ -1,0 +1,7 @@
+DesertBeacon,4291,4297,1961,1967
+RLCraft_DecentCaveSpider,4111,4111,1945,1945
+RLCraft_UndergroundRuin2,4106,4116,1940,1947
+RLCraft_SmallUndergroundSkeleton,4093,4101,1935,1943
+MeteorSite,4269,4299,1912,1927
+RLCraft_BasicWitch,4429,4429,1940,1940
+RLCraft_UndergroundRuin1,4426,4435,1934,1943
